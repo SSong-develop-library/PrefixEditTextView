@@ -3,7 +3,6 @@
 **Add Prefix Shape in EditText**
 
 ## Preview
------
 
 <div>
 <img src="https://github.com/SSong-develop/PrefixEditTextView/blob/main/art/preview1.gif" width="300" height="650"/>
@@ -11,7 +10,6 @@
 </div>
 
 ## How To Use
-------
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
